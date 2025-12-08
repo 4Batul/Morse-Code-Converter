@@ -14,7 +14,7 @@ A Java Swing/AWT-based application that enables users to convert between plain t
 
 ## Demo
 
-*(Include a screenshot here if available)*
+
 
 ![Screenshot](demo1.png)
 ![Screenshot](demo2.png)
