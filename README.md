@@ -27,8 +27,9 @@ A Java Swing/AWT-based application that enables users to convert between plain t
 
 ```bash
 javac MorseCodeTranslator.java
+```
 
 4. Run the main file:
 ```bash
 Java MorseCodeTranslator.java
-
+```
